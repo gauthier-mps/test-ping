@@ -1,2 +1,1 @@
-# test-ping
-repo test features git for ping
+Bonjour Hola Hello
